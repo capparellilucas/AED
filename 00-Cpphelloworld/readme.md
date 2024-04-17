@@ -10,4 +10,7 @@ el desarrollo de un programa simple. C++.\
 • Tener un primer contacto con las herramientas necesarias para abordar la
 resolución de los trabajos posteriores.\
 • Creación de repositorio personal git.\
-• Armado de equipo de trabajo
+• Armado de equipo de trabajo\
+
+Compilador: G++ 9.4.0
+c/c++ Extension pack para Visual Studio Code
