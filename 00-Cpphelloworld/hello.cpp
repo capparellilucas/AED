@@ -1,5 +1,5 @@
 /* Hello.cpp
-C++17
+G++ 9.4.0
 Capparelli Lucas Pablo
 2024
 */
